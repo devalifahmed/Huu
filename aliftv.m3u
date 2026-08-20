@@ -1,45 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=BTV" group-title="INDIAN",BTV
-https://7lsc33jopp.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png" group-title="Entertainment",BTV
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDB9fX1dfQ","edge-signature":"Fj4JV6Imb3lvdRZ0g2s~c8m7-F7dpbMDOHprgQwSXfs"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=BTV+World",BTV World
 https://7lsc33jopp.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=BTV+Chattogram",BTV Chattogram
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="228" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="News",BTV Shangshad
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDB9fX1dfQ","edge-signature":"f7o276OqXTXet2ZpqacKebxLQCpmSlkUmQUsxAV8xT0"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=ATN+Bangla",ATN Bangla
 PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Channel+I+HD",Channel I HD
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="132" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Entertainment",Channel I HD
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDJ9fX1dfQ","edge-signature":"bk5CB9f-pZsNIm872nrmIXMwejvc8mlYowAfhlX0P0s"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Ekushey+TV",Ekushey TV
 PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=NTV",NTV
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="99" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Entertainment",NTV
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDJ9fX1dfQ","edge-signature":"Z0SxiaT-DBPNm18O70NWH7yJYhXL-q1bI1-03-EjOw0"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=RTV+HD",RTV HD
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Boishakhi+TV",Boishakhi TV
 PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Bangla+Vision",Bangla Vision
-PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Desh+TV",Desh TV
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="100" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDJ9fX1dfQ","edge-signature":"TtqHQ13K3Ef7gXoG~Ys9yU0Eb7lxUUdXTiUwU0JWw8A"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="303" tvg-name="Desh TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png" group-title="News",Desh TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=a54440fc-4162&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NzE5NDg0NiwiaWF0IjoxNzg3MTg3NjQ2LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI4NWM1NjBiMi0wODU2LTQzMmUtYWQ3Ny03ODc1MzllYmI1NjYiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiYTU0NDQwZmMtNDE2MiJ9.TwdF6NkxUeI9SA6uJE5wVC4JwAEmoaKMBEG8wjd17p6K5MRXDGAqPXulfp2w1J13X34SpTe49rMiL4YxzFogMO5qio-YDjDNKGyFPXtzXofbUePBkDjMXpE_KHJQ5OjV3YHYPnyj9KmUTwGXZy-JWLI2oTpyRPeGBOH_5Dot5fAFNXiVxL86mv-5ipkYbBa3kOf6oRM71itz9NJ3vbDDgPxoIDkh4PvqPMi-voxnNp1f7QTK8xAO18OP2mjAcelRiEbdUfo9_V0p4fmYzTbOeRUhaoergAwFPhIo2d0jdrddCyWyt_H6weSV5tV94T7glolumfGp4ct07kH5AjhJww
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDZ9fX1dfQ","edge-signature":"-2XGzyfxdKzzNofZlOtfdzuR5vdh0ZFgTc9cCusUcaM"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd?_t=1787187646564
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=My+TV",My TV
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Mohona+TV",Mohona TV
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Bijoy+TV",Bijoy TV
 PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Maasranga+HD",Maasranga HD
-PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Channel+9+HD",Channel 9 HD
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Entertainment",Maasranga TV
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDB9fX1dfQ","edge-signature":"c3UDi9RwArDzWMRT4kwvZDoR51njw5ZfFByBDgydo-k"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="188" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Entertainment",Channel 9 HD
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDF9fX1dfQ","edge-signature":"WqTgcGjzBtoI8BNex20NHeNy5~ZyFirFldbkXTYtzuI"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-id="191" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="News",Star News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=108684c7a89e&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NzE5NDg0MywiaWF0IjoxNzg3MTg3NjQzLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI1ZDYyMDY0Mi1kNGM3LTRkNDAtOTg4ZC1lNDAyNGE2Mzc0YTQiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiMTA4Njg0YzdhODllIn0.jPfIEKVCQk7M0-icKKJMPk8ucqwfSQNunvv98-10uMJIxJsGZ4HvojfrM6KZwovwRT8qtPWnidhbGK_vipgUbF51NKM2RxjYg68EhOwOwX77nJjbaWKDMVWzIzPBnxhaZX7amM38vvd-40GO42EmCn5N-Dug0OF8vXffdikQQ0aUrYMbHvy_1AGC-igfzyZI0IIX_izvMDxNMtlmViKYJIb-wC_rW7pU7vyeUAhEwo8XH4j2k279YSiurniOwrMfOAklTosF9YpKYAuu4kfrptz0miSgpVwtB3tpxxf2_Jr86xwXtQS08M1THV1E-Qrl07MTM_dxd9PPRHXsFHrlpQ
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDN9fX1dfQ","edge-signature":"5HK5Jf0xRZWid4xoRveTetpxsdAGmdK7ihfTGiO3Vmw"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1787187643201
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Gazi+TV+HD",Gazi TV HD
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Asian+TV+HD",Asian TV HD
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=SA+TV+HD",SA TV HD
 PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Deepto+HD",Deepto HD
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDJ9fX1dfQ","edge-signature":"eyEel~Rv4VZZXgrtMIwGTUcg1xfVE0PWWWh16ha2BYM"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Bangla+TV",Bangla TV
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Nagorik+TV+HD",Nagorik TV HD
@@ -152,20 +172,26 @@ PASTE_STREAM_LINK_HERE
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=BTV+Sangsad",BTV Sangsad
 PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Independent+TV",Independent TV
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="96" tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzl9fX1dfQ","edge-signature":"OCQ4mxKrZNAv6kaTks9pdzjsGeMP-v4iiwct43HkFes"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=ATN+News",ATN News
 PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Somoy+TV",Somoy TV
-PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Channel+24",Channel 24
-PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Ekattor+HD",Ekattor HD
-PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Jamuna+TV",Jamuna TV
-PASTE_STREAM_LINK_HERE
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=DBC+News+HD",DBC News HD
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="318" tvg-name="Somoy tv" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="News",Somoy tv
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ","edge-signature":"G945K8iwVinLChZQ8-eE3us1QEvB51bofLTdKkwjcXA"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDB9fX1dfQ","edge-signature":"voIdmch6P0ZBm0Z4YdZHD6cxCJDt8vzZAIo3i6AOHWM"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDB9fX1dfQ","edge-signature":"AN4tHxdPAD02qo2QjCRsPu-J1QvmXTVUU6vKtLoZ14I"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ","edge-signature":"LKmD1AQScGo3Mmq3y3wqXH93xwvsVQz4Cqs3TA-9mi4"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDB9fX1dfQ","edge-signature":"vB4Y0zr6CBeSaZ3RaChW98JofxnfzedDEQSKvu1n1R4"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=News24+HD",News24 HD
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=BBC+News",BBC News
