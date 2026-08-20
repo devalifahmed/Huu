@@ -1,9 +1,25 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=f352d057-1907&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NzE5NDgzOCwiaWF0IjoxNzg3MTg3NjM4LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiIzNzhjODM5My02NDcyLTQyNjQtOGQxZC1lMTFjNGU4ZTFkMmEiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiZjM1MmQwNTctMTkwNyJ9.iIACmfu8ovymcGMS8IfiuBBaTtaAcZ798uMhAl9RV0zbxQVk6nHN1_BUvdxdt-fYFfFWWaaTPwzqPm8qhe_t5A0DCZHZgegm_My7bcho2PAdUDxvuuqr37NPLDuIxnNdRqWifei_OHVkhc2tv9_HnMz7RYhxeBMNkJ3ToUEdQDC2UWwZtFCLzby5-pYO_oJ32fEhShzPFbBKV-e8S6Zlx3bSiZRpyiVNfoB5LDTPj00GpSBXx-i06Z486iKbFwSuMZ9NHjSoSVQ7-9NzLb_1e_26tNzoJv87ZjMcgLF3fk5iyERQKl_qO9xUxQaGZbQpjyhjT2rKffHUicwhr7F3CQ
-#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ","edge-signature":"3YEGIg0R-K6IRtUlhV-~sKdr0hFeYJmoDsLmx~5xy7g"}
-https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd?_t=1787187638961
+#EXTM3U 
+#EXT-X-VERSION:7 
+## Created with Broadpeak BkS350 Origin Packager  (version=1.12.8-28913) 
+# AUDIO groups 
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-113",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2" 
+# variants 
+#EXT-X-STREAM-INF:BANDWIDTH=648000,AVERAGE-BANDWIDTH=589000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=426x240,FRAME-RATE=25,AUDIO="audio-aacl-113",CLOSED-CAPTIONS=NONE 
+https://akash-by-hady.srhady.workers.dev/ts?ep=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ&es=LKmD1AQScGo3Mmq3y3wqXH93xwvsVQz4Cqs3TA-9mi4&url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1701%2Foutput%2F1701-audio_113312_eng%3D113200-video%3D442000.m3u8 
+#EXT-X-STREAM-INF:BANDWIDTH=1510000,AVERAGE-BANDWIDTH=1373000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=640x360,FRAME-RATE=25,AUDIO="audio-aacl-113",CLOSED-CAPTIONS=NONE 
+https://akash-by-hady.srhady.workers.dev/ts?ep=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ&es=LKmD1AQScGo3Mmq3y3wqXH93xwvsVQz4Cqs3TA-9mi4&url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1701%2Foutput%2F1701-audio_113312_eng%3D113200-video%3D1181200.m3u8 
+#EXT-X-STREAM-INF:BANDWIDTH=2105000,AVERAGE-BANDWIDTH=1914000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=854x480,FRAME-RATE=25,AUDIO="audio-aacl-113",CLOSED-CAPTIONS=NONE 
+https://akash-by-hady.srhady.workers.dev/ts?ep=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ&es=LKmD1AQScGo3Mmq3y3wqXH93xwvsVQz4Cqs3TA-9mi4&url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1701%2Foutput%2F1701-audio_113312_eng%3D113200-video%3D1692000.m3u8 
+#EXT-X-STREAM-INF:BANDWIDTH=2463000,AVERAGE-BANDWIDTH=2239000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1280x720,FRAME-RATE=25,AUDIO="audio-aacl-113",CLOSED-CAPTIONS=NONE 
+https://akash-by-hady.srhady.workers.dev/ts?ep=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ&es=LKmD1AQScGo3Mmq3y3wqXH93xwvsVQz4Cqs3TA-9mi4&url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1701%2Foutput%2F1701-audio_113312_eng%3D113200-video%3D1998800.m3u8 
+#EXT-X-STREAM-INF:BANDWIDTH=2701000,AVERAGE-BANDWIDTH=2455000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1920x1080,FRAME-RATE=25,AUDIO="audio-aacl-113",CLOSED-CAPTIONS=NONE 
+https://akash-by-hady.srhady.workers.dev/ts?ep=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ&es=LKmD1AQScGo3Mmq3y3wqXH93xwvsVQz4Cqs3TA-9mi4&url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1701%2Foutput%2F1701-audio_113312_eng%3D113200-video%3D2202800.m3u8 
+# variants 
+#EXT-X-STREAM-INF:BANDWIDTH=132000,AVERAGE-BANDWIDTH=120000,CODECS="mp4a.40.2",AUDIO="audio-aacl-113" 
+https://akash-by-hady.srhady.workers.dev/ts?ep=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwMS9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ&es=LKmD1AQScGo3Mmq3y3wqXH93xwvsVQz4Cqs3TA-9mi4&url=https%3A%2F%2Fowrcovcrpy.gpcdn.net%2Fbpk-tv%2F1701%2Futput%2F1701-audio_113312_eng%3D113200.m3u8 
+# keyframes 
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=65000,CODECS="avc1.640029",RESOLUTION=426x240,URI="keyframes/1701-video=442000.m3u8" 
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=173000,CODECS="avc1.640029",RESOLUTION=640x360,URI="keyframes/1701-video=1181200.m3u8" 
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=247000,CODECS="avc1.640029",RESOLUTION=854x480,URI="keyframes/1701-video=1692000.m3u8" 
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=292000,CODECS="avc1.640029",RESOLUTION=1280x720,URI="keyframes/1701-video=1998800.m3u8" 
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=322000,CODECS="avc1.640029",RESOLUTION=1920x1080,URI="keyframes/1701-video=2202800.m3u8"
