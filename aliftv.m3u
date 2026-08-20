@@ -32,6 +32,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=a54440fc-4162&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NzE5NDg0NiwiaWF0IjoxNzg3MTg3NjQ2LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI4NWM1NjBiMi0wODU2LTQzMmUtYWQ3Ny03ODc1MzllYmI1NjYiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiYTU0NDQwZmMtNDE2MiJ9.TwdF6NkxUeI9SA6uJE5wVC4JwAEmoaKMBEG8wjd17p6K5MRXDGAqPXulfp2w1J13X34SpTe49rMiL4YxzFogMO5qio-YDjDNKGyFPXtzXofbUePBkDjMXpE_KHJQ5OjV3YHYPnyj9KmUTwGXZy-JWLI2oTpyRPeGBOH_5Dot5fAFNXiVxL86mv-5ipkYbBa3kOf6oRM71itz9NJ3vbDDgPxoIDkh4PvqPMi-voxnNp1f7QTK8xAO18OP2mjAcelRiEbdUfo9_V0p4fmYzTbOeRUhaoergAwFPhIo2d0jdrddCyWyt_H6weSV5tV94T7glolumfGp4ct07kH5AjhJww
 #EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDZ9fX1dfQ","edge-signature":"-2XGzyfxdKzzNofZlOtfdzuR5vdh0ZFgTc9cCusUcaM"}
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd?_t=1787187646564
+#EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="News",News 24 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=ec040881-5825&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NzE5NDg0MSwiaWF0IjoxNzg3MTg3NjQxLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiIyMjE4N2MxNS0zMGEyLTQ4OGEtOTE3Yi03NDFjNDliY2Y1M2MiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiZWMwNDA4ODEtNTgyNSJ9.LkN8u20pPmHGEJZD-b_az54saeZJgSU0BWb-ruymV8KHPYR_iqL-zjlWB8uqCpJgHo8TmrkPAWTmdxY8Q5B25MWmDbeqYsVDjXpZ9hcO-xYLOD9ZoqpfSTnhIexooAlnByvnkq6SlyFMtXqvZ7Xc0U-fU08wK4ay4nll9oCEx8-k6xu_Lgz9hCgRdeDXjFSYKiYw9dY2Tg0ihRL3Jcmhm0A8k8HkMJcwVB6sdKUAKNV9AE7nN9ZSpmRN_BmuNFyaaLQpbC_Bd3dk-7jlIMEw6wxuDxjCui9B5Ms7Q5CqCzemLy7j0BrJr98vJbaooORn2rmjr8FaSrJmhdMwNGZizg
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDF9fX1dfQ","edge-signature":"Wdg6pTMVHylmsLa0rUoWehxS3wSZJDWSz1aHB-aEQxI"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.mpd?_t=1787187641977
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=My+TV",My TV
 PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Mohona+TV",Mohona TV
@@ -175,8 +182,13 @@ PASTE_STREAM_LINK_HERE
 #EXTINF:-1 tvg-id="96" tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV
 #EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzl9fX1dfQ","edge-signature":"OCQ4mxKrZNAv6kaTks9pdzjsGeMP-v4iiwct43HkFes"}
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=ATN+News",ATN News
-PASTE_STREAM_LINK_HERE
+#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News",ATN News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=c6b0ce2e-6071&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NzE5NDg0MSwiaWF0IjoxNzg3MTg3NjQxLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI3NzM4ZGM1YS05ZGE2LTRkMDItYTdlNC01NzQxNTk0MGQ0NmUiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiYzZiMGNlMmUtNjA3MSJ9.J9-cWmTkDLZjJjfVTY1DxTcrI1eRVRBsKvd4jAHfmgWnn7oycjdyd561ROoyowGrU2wCghGto6nr-7jlO2ZvOZjgj7cEwD-3yl8EIJHMOTqN1QFK49_xowapuqtMhsI9GEGo4YCUKxrGMHFbPVG7aNGwbW4KoRTjEH4PMP53EUTEQMpLjBi7dTJYldTiN0I8ycRh_pxlZLdK2M4vBt-8hpBzs9EPSdgNh-LeopfFp3THDaA5pZIKJFU6ymUlfBi0f9qFAv6DKVzVvyuOB75NFPwkpcw4wawvjOAYjo91VvlJaX74GDaHhQeMn3GvsXJBcFVT_RVK-RigS0lwM1FWQw
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNi9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0NDF9fX1dfQ","edge-signature":"E0JIsv8JAHZfr2cERLTMfdWU1eafGWs0Vmjnz10X2Oo"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.mpd?_t=1787187641666
 #EXTINF:-1 tvg-id="318" tvg-name="Somoy tv" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="News",Somoy tv
 #EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODcxOTg0Mzh9fX1dfQ","edge-signature":"G945K8iwVinLChZQ8-eE3us1QEvB51bofLTdKkwjcXA"}
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
