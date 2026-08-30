@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest/scale-to-width-down/200?cb=20240806023450" group-title="🇧🇩 Bangladesh" channel-number="001",BTV
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
-#EXTINF:-1 tvg-id="BTVNews.bd" tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Bangladesh_Television_logo.svg" group-title="🇧🇩 Bangladesh" channel-number="002",BTV News
+#EXTINF:-1 tvg-id="BTVNews.bd" tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/250px-BTV_News_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🇧🇩 Bangladesh" channel-number="002",BTV News
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
 #EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="003",Sangsad TV
@@ -24,13 +24,13 @@ YOUR_STREAM_URL_HERE
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
 #EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png" group-title="🇧🇩 Bangladesh" channel-number="006",Channel i
-YOUR_STREAM_URL_HERE
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" group-title="🇧🇩 Bangladesh" channel-number="007",Ekushey TV
-YOUR_STREAM_URL_HERE
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="🇧🇩 Bangladesh" channel-number="008",NTV
-YOUR_STREAM_URL_HERE
+https://playztv-apps.pages.dev/ntv/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png" group-title="🇧🇩 Bangladesh" channel-number="009",RTV
 YOUR_STREAM_URL_HERE
