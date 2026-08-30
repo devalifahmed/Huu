@@ -8,8 +8,8 @@
 # 🇧🇩 BANGLADESH
 ############################################################
 
-#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Bangladesh_Television_logo.svg" group-title="🇧🇩 Bangladesh" channel-number="001",BTV
-YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest/scale-to-width-down/200?cb=20240806023450" group-title="🇧🇩 Bangladesh" channel-number="001",BTV
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 tvg-id="BTVNews.bd" tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Bangladesh_Television_logo.svg" group-title="🇧🇩 Bangladesh" channel-number="002",BTV News
 YOUR_STREAM_URL_HERE
@@ -20,31 +20,31 @@ YOUR_STREAM_URL_HERE
 #EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-name="BTV Chattogram" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="004",BTV Chattogram
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="005",ATN Bangla
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png" group-title="🇧🇩 Bangladesh" channel-number="005",ATN Bangla
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="006",Channel i
+#EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png" group-title="🇧🇩 Bangladesh" channel-number="006",Channel i
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="007",Ekushey TV
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" group-title="🇧🇩 Bangladesh" channel-number="007",Ekushey TV
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="008",NTV
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="🇧🇩 Bangladesh" channel-number="008",NTV
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="009",RTV
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png" group-title="🇧🇩 Bangladesh" channel-number="009",RTV
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="010",Boishakhi TV
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1280px-Boishakhi_TV_logo.svg.png" group-title="🇧🇩 Bangladesh" channel-number="010",Boishakhi TV
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="BanglaVision" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="011",BanglaVision
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="BanglaVision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1280px-Banglavision.svg.png" group-title="🇧🇩 Bangladesh" channel-number="011",BanglaVision
 YOUR_STREAM_URL_HERE
 
 #EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="012",Desh TV
 YOUR_STREAM_URL_HERE
 
-#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="013",My TV
+#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" group-title="🇧🇩 Bangladesh" channel-number="013",My TV
 YOUR_STREAM_URL_HERE
 
 #EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="014",ATN News
