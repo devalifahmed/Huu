@@ -1,0 +1,493 @@
+#EXTM3U
+#PLAYLIST:ALIF IPTV
+#EXTENC:UTF-8
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+############################################################
+# 🇧🇩 BANGLADESH
+############################################################
+
+#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Bangladesh_Television_logo.svg" group-title="🇧🇩 Bangladesh" channel-number="001",BTV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BTVNews.bd" tvg-name="BTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Bangladesh_Television_logo.svg" group-title="🇧🇩 Bangladesh" channel-number="002",BTV News
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="003",Sangsad TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-name="BTV Chattogram" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="004",BTV Chattogram
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="005",ATN Bangla
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="006",Channel i
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="007",Ekushey TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="008",NTV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="009",RTV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="010",Boishakhi TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="BanglaVision" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="011",BanglaVision
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="012",Desh TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="013",My TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="014",ATN News
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="MohonaTV.bd" tvg-name="Mohona TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="015",Mohona TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-name="Bijoy TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="016",Bijoy TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="017",Somoy TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="018",Independent TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="019",Maasranga TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="020",Channel 9
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="021",Channel 24
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="GTV.bd" tvg-name="GTV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="022",GTV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="023",Ekattor TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="024",Asian TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SATV.bd" tvg-name="SA TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="025",SA TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="026",Jamuna TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="027",Deepto TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DBCTV.bd" tvg-name="DBC News" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="028",DBC News
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="News24.bd" tvg-name="News24" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="029",News24
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="030",Bangla TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="031",Duronto TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="032",Nagorik TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="033",Ananda TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="034",Global TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="Nexus TV" tvg-logo="" group-title="🇧🇩 Bangladesh" channel-number="035",Nexus TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="T-Sports.bd" tvg-name="T Sports" tvg-logo="" group-title="🇧🇩 Sports" channel-number="036",T Sports
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🇮🇳 INDIAN BANGLA
+############################################################
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="051",Star Jalsha
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="052",Zee Bangla
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="053",Colors Bangla
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="054",Sony Aath
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="055",ABP Ananda
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="056",News18 Bangla
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="057",TV9 Bangla
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="058",Zee Bangla Cinema
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AakashAath.in" tvg-name="Aakash Aath" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="059",Aakash Aath
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SunBangla.in" tvg-name="Sun Bangla" tvg-logo="" group-title="🇮🇳 Indian Bangla" channel-number="060",Sun Bangla
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🇮🇳 HINDI ENTERTAINMENT
+############################################################
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="076",Star Plus
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="077",Colors
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonyEntertainment.in" tvg-name="Sony Entertainment Television" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="078",Sony Entertainment Television
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="079",Zee TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="080",Sony SAB
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="081",&TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Dangal.in" tvg-name="Dangal" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="082",Dangal
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="083",DD National
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="084",DD India
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ShemaaroTV.in" tvg-name="Shemaroo TV" tvg-logo="" group-title="🇮🇳 Hindi Entertainment" channel-number="085",Shemaroo TV
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 📰 NEWS
+############################################################
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="" group-title="📰 International News" channel-number="100",BBC News
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN International" tvg-logo="" group-title="📰 International News" channel-number="101",CNN International
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AlJazeera.en" tvg-name="Al Jazeera English" tvg-logo="" group-title="📰 International News" channel-number="102",Al Jazeera English
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" tvg-logo="" group-title="📰 International News" channel-number="103",DW English
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="France24.en" tvg-name="France 24 English" tvg-logo="" group-title="📰 International News" channel-number="104",France 24 English
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" group-title="📰 International News" channel-number="105",CGTN
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="" group-title="📰 International News" channel-number="106",NHK World Japan
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="" group-title="📰 International News" channel-number="107",KBS World
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="" group-title="📰 International News" channel-number="108",WION
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="News18.in" tvg-name="News18 India" tvg-logo="" group-title="📰 Indian News" channel-number="109",News18 India
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-logo="" group-title="📰 Indian News" channel-number="110",India Today
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="Times Now" tvg-logo="" group-title="📰 Indian News" channel-number="111",Times Now
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-logo="" group-title="📰 Indian News" channel-number="112",DD News
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# ⚽ SPORTS
+############################################################
+
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" tvg-logo="" group-title="⚽ Sports" channel-number="120",T Sports
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" tvg-logo="" group-title="⚽ Sports" channel-number="121",Sony Sports Ten 1
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="⚽ Sports" channel-number="122",Sony Sports Ten 2
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonySportsTen3.in" tvg-name="Sony Sports Ten 3" tvg-logo="" group-title="⚽ Sports" channel-number="123",Sony Sports Ten 3
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="⚽ Sports" channel-number="124",Sony Sports Ten 5
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="" group-title="⚽ Sports" channel-number="125",Star Sports 1
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="" group-title="⚽ Sports" channel-number="126",Star Sports 2
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="⚽ Sports" channel-number="127",Star Sports Select 1
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" tvg-logo="" group-title="⚽ Sports" channel-number="128",Star Sports Select 2
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" tvg-logo="" group-title="⚽ Sports" channel-number="129",Eurosport
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="⚽ Sports" channel-number="130",DD Sports
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🎬 MOVIES
+############################################################
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="150",Zee Cinema
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="151",Sony Max
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony Max 2" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="152",Sony Max 2
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="153",Star Gold
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="154",Star Gold 2
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="&pictures" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="155",&pictures
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="156",Colors Cineplex
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="" group-title="🎬 Hindi Movies" channel-number="157",B4U Movies
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" tvg-logo="" group-title="🎬 English Movies" channel-number="158",Movies Now
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="🎬 Bangla Movies" channel-number="159",Zee Bangla Cinema
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 👶 KIDS
+############################################################
+
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" tvg-logo="" group-title="👶 Kids" channel-number="200",Cartoon Network
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="Nick" tvg-logo="" group-title="👶 Kids" channel-number="201",Nick
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" tvg-logo="" group-title="👶 Kids" channel-number="202",Sonic
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Disney.in" tvg-name="Disney Channel" tvg-logo="" group-title="👶 Kids" channel-number="203",Disney Channel
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Hungama.in" tvg-name="Hungama" tvg-logo="" group-title="👶 Kids" channel-number="204",Hungama
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" tvg-logo="" group-title="👶 Kids" channel-number="205",Discovery Kids
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="" group-title="👶 Kids" channel-number="206",Pogo
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BabyTV.int" tvg-name="BabyTV" tvg-logo="" group-title="👶 Kids" channel-number="207",BabyTV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony YAY!" tvg-logo="" group-title="👶 Kids" channel-number="208",Sony YAY!
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🎵 MUSIC
+############################################################
+
+#EXTINF:-1 tvg-id="MTVIndia.in" tvg-name="MTV India" tvg-logo="" group-title="🎵 Music" channel-number="225",MTV India
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="VH1.in" tvg-name="VH1" tvg-logo="" group-title="🎵 Music" channel-number="226",VH1
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="" group-title="🎵 Music" channel-number="227",9XM
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="" group-title="🎵 Music" channel-number="228",Zoom
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="E24.in" tvg-name="E24" tvg-logo="" group-title="🎵 Music" channel-number="229",E24
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="" group-title="🎵 Music" channel-number="230",B4U Music
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-name="Zee Music" tvg-logo="" group-title="🎵 Music" channel-number="231",Zee Music
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="MTVBeats.in" tvg-name="MTV Beats" tvg-logo="" group-title="🎵 Music" channel-number="232",MTV Beats
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🔬 DOCUMENTARY / KNOWLEDGE
+############################################################
+
+#EXTINF:-1 tvg-id="Discovery.in" tvg-name="Discovery Channel" tvg-logo="" group-title="🔬 Documentary" channel-number="250",Discovery Channel
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="" group-title="🔬 Documentary" channel-number="251",Discovery Science
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="" group-title="🔬 Documentary" channel-number="252",Animal Planet
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="NatGeo.in" tvg-name="National Geographic" tvg-logo="" group-title="🔬 Documentary" channel-number="253",National Geographic
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="Nat Geo Wild" tvg-logo="" group-title="🔬 Documentary" channel-number="254",Nat Geo Wild
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="History.in" tvg-name="History" tvg-logo="" group-title="🔬 Documentary" channel-number="255",History
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" tvg-logo="" group-title="🔬 Documentary" channel-number="256",TLC
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="BBC_Earth.uk" tvg-name="BBC Earth" tvg-logo="" group-title="🔬 Documentary" channel-number="257",BBC Earth
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-name="Travel XP" tvg-logo="" group-title="🔬 Documentary" channel-number="258",Travel XP
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="LoveNature.int" tvg-name="Love Nature" tvg-logo="" group-title="🔬 Documentary" channel-number="259",Love Nature
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🕌 RELIGIOUS
+############################################################
+
+#EXTINF:-1 tvg-id="PeaceTV.int" tvg-name="Peace TV" tvg-logo="" group-title="🕌 Religious" channel-number="280",Peace TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.int" tvg-name="Peace TV Bangla" tvg-logo="" group-title="🕌 Religious" channel-number="281",Peace TV Bangla
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="MadaniChannel.pk" tvg-name="Madani Channel" tvg-logo="" group-title="🕌 Religious" channel-number="282",Madani Channel
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="QuranTV.int" tvg-name="Quran TV" tvg-logo="" group-title="🕌 Religious" channel-number="283",Quran TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SaudiQuran.sa" tvg-name="Saudi Quran" tvg-logo="" group-title="🕌 Religious" channel-number="284",Saudi Quran
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="SaudiSunnah.sa" tvg-name="Saudi Sunnah" tvg-logo="" group-title="🕌 Religious" channel-number="285",Saudi Sunnah
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel" tvg-logo="" group-title="🕌 Religious" channel-number="286",Islam Channel
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🇵🇰 PAKISTAN
+############################################################
+
+#EXTINF:-1 tvg-id="PTVHome.pk" tvg-name="PTV Home" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="300",PTV Home
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="GeoEntertainment.pk" tvg-name="Geo Entertainment" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="301",Geo Entertainment
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Geo News" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="302",Geo News
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-name="ARY Digital" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="303",ARY Digital
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="ARY News" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="304",ARY News
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="305",Hum TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="306",Hum News
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="HumSitaray.pk" tvg-name="Hum Sitaray" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="307",Hum Sitaray
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="" group-title="🇵🇰 Pakistan" channel-number="308",PTV Sports
+YOUR_STREAM_URL_HERE
+
+
+############################################################
+# 🌏 ASIAN / INTERNATIONAL
+############################################################
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="" group-title="🌏 Asian" channel-number="325",KBS World
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang TV" tvg-logo="" group-title="🌏 Asian" channel-number="326",Arirang TV
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="" group-title="🌏 Asian" channel-number="327",NHK World Japan
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="Channel NewsAsia" tvg-logo="" group-title="🌏 Asian" channel-number="328",Channel NewsAsia
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde" tvg-logo="" group-title="🌏 International" channel-number="329",TV5Monde
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" group-title="🌏 International" channel-number="330",CGTN
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="" group-title="🌏 International" channel-number="331",Al Jazeera English
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-logo="" group-title="🌏 International" channel-number="332",DW English
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="France24.int" tvg-name="France 24" tvg-logo="" group-title="🌏 International" channel-number="333",France 24
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="" group-title="🌏 International" channel-number="334",TRT World
+YOUR_STREAM_URL_HERE
