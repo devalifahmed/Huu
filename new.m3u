@@ -33,7 +33,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png" group-title="🇧🇩 Bangladesh" channel-number="009",RTV
-YOUR_STREAM_URL_HERE
+http://116.204.149.16/rtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1280px-Boishakhi_TV_logo.svg.png" group-title="🇧🇩 Bangladesh" channel-number="010",Boishakhi TV
 YOUR_STREAM_URL_HERE
