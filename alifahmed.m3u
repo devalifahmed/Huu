@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BTV.bd" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/054/224/949/small_2x/letter-a-professional-3d-logo-free-vector.jpg" tvg-name="BTV" channel-number="001" group-title="🇧🇩 Bangladesh",ALIF IPTV
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
 #EXTINF:-1 tvg-id="BTV.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest/scale-to-width-down/200?cb=20240806023450" tvg-name="BTV" channel-number="001" group-title="🇧🇩 Bangladesh",BTV
 http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
 #EXTINF:-1 tvg-id="BTVNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/250px-BTV_News_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="BTV News" channel-number="002" group-title="🇧🇩 Bangladesh",BTV News
