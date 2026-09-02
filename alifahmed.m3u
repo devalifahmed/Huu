@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTV.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest/scale-to-width-down/200?cb=20240806023450" tvg-name="BTV" channel-number="001" group-title="🇧🇩 Bangladesh",BTV
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/m3u8
+#EXTINF:-1 tvg-id="BTVNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/250px-BTV_News_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="BTV News" channel-number="002" group-title="🇧🇩 Bangladesh",BTV News
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+#EXTINF:-1 tvg-id="SangsadTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/250px-Sangsad_Television_Emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Sangsad TV" channel-number="003" group-title="🇧🇩 Bangladesh",Sangsad TV
+http://iptv.fcnonline.xyz/play/JmU-3pCgErAiWP5dU8MsA5dlt3yYxePAtP3Yd8YVjJM/m3u8
+#EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/250px-BTV_Chattogram_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="BTV Chattogram" channel-number="004" group-title="🇧🇩 Bangladesh",BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png" tvg-name="ATN Bangla" channel-number="005" group-title="🇧🇩 Bangladesh",ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1 tvg-id="Channeli.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png" tvg-name="Channel i" channel-number="006" group-title="🇧🇩 Bangladesh",Channel i
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" tvg-name="Ekushey TV" channel-number="007" group-title="🇧🇩 Bangladesh",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1 tvg-id="NTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" tvg-name="NTV" channel-number="008" group-title="🇧🇩 Bangladesh",NTV
+https://playztv-apps.pages.dev/ntv/index.m3u8
+#EXTINF:-1 tvg-id="RTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png" tvg-name="RTV" channel-number="009" group-title="🇧🇩 Bangladesh",RTV
+http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1280px-Boishakhi_TV_logo.svg.png" tvg-name="Boishakhi TV" channel-number="010" group-title="🇧🇩 Bangladesh",Boishakhi TV
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1280px-Banglavision.svg.png" tvg-name="BanglaVision" channel-number="011" group-title="🇧🇩 Bangladesh",BanglaVision
+https://iptv.aethelcode.workers.dev/tgUzpPc9r6xw/index.m3u8|Referer=https://torongoplus.vercel.app
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_of_Desh_TV.svg/250px-Logo_of_Desh_TV.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Desh TV" channel-number="012" group-title="🇧🇩 Bangladesh",Desh TV
+https://server6.iptvchannels.workers.dev/ryFkXfd1a4CQ7mMdc820/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="MyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" tvg-name="My TV" channel-number="013" group-title="🇧🇩 Bangladesh",My TV HD
+https://playztv-apps.pages.dev/my-tv/index.m3u8
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/250px-ATN_News_Logo_without_slogan.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="ATN News" channel-number="014" group-title="🇧🇩 Bangladesh",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-id="MohonaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/250px-Mohona_tv_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Mohona TV" channel-number="015" group-title="🇧🇩 Bangladesh",Mohona TV
+https://server6.iptvchannels.workers.dev/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/250px-Logo_of_Bijoy_TV.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Bijoy TV" channel-number="016" group-title="🇧🇩 Bangladesh",Bijoy TV
+https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
+#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/250px-SOMOY_TV_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Somoy TV" channel-number="017" group-title="🇧🇩 Bangladesh",Somoy TV
+http://116.204.149.16/somoytv/index.m3u8
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/250px-Independent_Television_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Independent TV" channel-number="018" group-title="🇧🇩 Bangladesh",Independent TV
+https://bd.drmlive.net/toffee/cdn/live/independent_tv/playlist.m3u8|Referer=https://bd.drmlive.net/
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" tvg-name="Maasranga TV" channel-number="019" group-title="🇧🇩 Bangladesh",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/250px-Channel9_bd.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Channel 9" channel-number="020" group-title="🇧🇩 Bangladesh",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/250px-Logo_of_Channel_24_%28Bangladesh%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Channel 24" channel-number="021" group-title="🇧🇩 Bangladesh",Channel 24
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+#EXTINF:-1 tvg-id="GTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/250px-Logo_of_GTV_%28Bangladesh%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="GTV" channel-number="022" group-title="🇧🇩 Bangladesh",GTV
+https://app.ncare.live/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/ekattor.png?raw=true" tvg-name="Ekattor TV" channel-number="023" group-title="🇧🇩 Bangladesh",Ekattor TV
+https://server6.iptvchannels.workers.dev/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="AsianTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/asiantv.png?raw=true" tvg-name="Asian TV" channel-number="024" group-title="🇧🇩 Bangladesh",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+#EXTINF:-1 tvg-id="SATV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/satv.png?raw=true" tvg-name="SA TV" channel-number="025" group-title="🇧🇩 Bangladesh",SA TV
+http://116.204.149.16/satv/index.m3u8
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/jamuna.png?raw=true" tvg-name="Jamuna TV" channel-number="026" group-title="🇧🇩 Bangladesh",Jamuna TV
+https://server6.iptvchannels.workers.dev/KGdZEdA7qQ43dmPkgk1j/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/deepto.png?raw=true" tvg-name="Deepto TV" channel-number="027" group-title="🇧🇩 Bangladesh",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="DBCTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/dbc.png?raw=true" tvg-name="DBC News" channel-number="028" group-title="🇧🇩 Bangladesh",DBC News
+https://playztv-apps.pages.dev/dbc-news/index.m3u8
+#EXTINF:-1 tvg-id="News24.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/news24.png?raw=true" tvg-name="News24" channel-number="029" group-title="🇧🇩 Bangladesh",News24
+https://server6.iptvchannels.workers.dev/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/banglatv.jpg?raw=true" tvg-name="Bangla TV" channel-number="030" group-title="🇧🇩 Bangladesh",Bangla TV
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" tvg-name="Duronto TV" channel-number="031" group-title="🇧🇩 Bangladesh",Duronto TV
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/nagorik.png?raw=true" tvg-name="Nagorik TV" channel-number="032" group-title="🇧🇩 Bangladesh",Nagorik TV
+https://kamrul-mc-ar-baki-bc-toder-baper-stream-monekore-user-kor.nurmd2006-official.workers.dev/Nagorik_TV/tracks-v1a1/mono.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/anandatv.png?raw=true" tvg-name="Ananda TV" channel-number="033" group-title="🇧🇩 Bangladesh",Ananda TV
+https://server6.iptvchannels.workers.dev/LeUAm4F1iixYns3s3Non/tracks-v1a1/mono.ts.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/globaltv.png?raw=true" tvg-name="Global TV" channel-number="034" group-title="🇧🇩 Bangladesh",Global TV
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="NexusTV.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/nexus.png?raw=true" tvg-name="Nexus TV" channel-number="035" group-title="🇧🇩 Bangladesh",Nexus TV
+https://tv.nurmd2006-official.workers.dev/live/nexus_tv_abr/index.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/ekhon.png?raw=true" group-title="🇧🇩 Bangladesh",Ekhon
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🇧🇩 Bangladesh",Channel 1
+https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Green_TV_Logo.png/250px-Green_TV_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🇧🇩 Bangladesh",Green TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Channel_S_Bangladesh_Logo.png/250px-Channel_S_Bangladesh_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="🇧🇩 Bangladesh",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="T-Sports.bd" tvg-logo="https://github.com/devalifahmed/Huu/blob/main/Channel%20Logo/tsports.jpg?raw=true" tvg-name="T Sports" channel-number="036" group-title="🇧🇩 Sports",T Sports
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-jalsha-hd-in.png?raw=true" tvg-name="Star Jalsha" channel-number="051" group-title="🇮🇳 Indian Bangla",Star Jalsha HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-bangla-hd-in.png?raw=true" tvg-name="Zee Bangla" channel-number="052" group-title="🇮🇳 Indian Bangla",Zee Bangla HD
+http://103.151.60.162:2122/play/a02p/index.m3u8?hls
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest/scale-to-width-down/1000?cb=20210420120554" tvg-name="Colors Bangla" channel-number="053" group-title="🇮🇳 Indian Bangla",Colors Bangla HD
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=908654&extension=m3u8
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-aath-in.png?raw=true" tvg-name="Sony Aath" channel-number="054" group-title="🇮🇳 Indian Bangla",Sony Aath
+http://103.151.60.162:2122/play/a023/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-bangla-cinema-in.png?raw=true" tvg-name="Zee Bangla Cinema" channel-number="058" group-title="🇮🇳 Indian Bangla",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-id="AakashAath.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/aakash-aath-in.png?raw=true" tvg-name="Aakash Aath" channel-number="059" group-title="🇮🇳 Indian Bangla",Aakash Aath
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-id="SunBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/120px-Sun_Bangla_Logo_2026_01.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Sun Bangla" channel-number="060" group-title="🇮🇳 Indian Bangla",Sun Bangla
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908685.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-plus-in.png?raw=true" tvg-name="Star Plus" channel-number="076" group-title="🇮🇳 Hindi Entertainment",Star Plus
+http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="" tvg-name="Colors" channel-number="077" group-title="🇮🇳 Hindi Entertainment",Colors
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="SonyEntertainment.in" tvg-logo="" tvg-name="Sony Entertainment Television" channel-number="078" group-title="🇮🇳 Hindi Entertainment",Sony Entertainment Television
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-logo="" tvg-name="Zee TV" channel-number="079" group-title="🇮🇳 Hindi Entertainment",Zee TV
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="" tvg-name="Sony SAB" channel-number="080" group-title="🇮🇳 Hindi Entertainment",Sony SAB
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="AndTV.in" tvg-logo="" tvg-name="&TV" channel-number="081" group-title="🇮🇳 Hindi Entertainment",&TV
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Dangal.in" tvg-logo="" tvg-name="Dangal" channel-number="082" group-title="🇮🇳 Hindi Entertainment",Dangal
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="DDNational.in" tvg-logo="" tvg-name="DD National" channel-number="083" group-title="🇮🇳 Hindi Entertainment",DD National
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="" tvg-name="DD India" channel-number="084" group-title="🇮🇳 Hindi Entertainment",DD India
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="ShemaaroTV.in" tvg-logo="" tvg-name="Shemaroo TV" channel-number="085" group-title="🇮🇳 Hindi Entertainment",Shemaroo TV
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="" tvg-name="BBC News" channel-number="100" group-title="📰 International News",BBC News
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="" tvg-name="CNN International" channel-number="101" group-title="📰 International News",CNN International
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="AlJazeera.en" tvg-logo="" tvg-name="Al Jazeera English" channel-number="102" group-title="📰 International News",Al Jazeera English
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="DW.de" tvg-logo="" tvg-name="DW English" channel-number="103" group-title="📰 International News",DW English
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="France24.en" tvg-logo="" tvg-name="France 24 English" channel-number="104" group-title="📰 International News",France 24 English
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="" tvg-name="CGTN" channel-number="105" group-title="📰 International News",CGTN
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="" tvg-name="NHK World Japan" channel-number="106" group-title="📰 International News",NHK World Japan
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="" tvg-name="KBS World" channel-number="107" group-title="📰 International News",KBS World
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="" tvg-name="WION" channel-number="108" group-title="📰 International News",WION
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="News18.in" tvg-logo="" tvg-name="News18 India" channel-number="109" group-title="📰 Indian News",News18 India
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="" tvg-name="India Today" channel-number="110" group-title="📰 Indian News",India Today
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-logo="" tvg-name="Times Now" channel-number="111" group-title="📰 Indian News",Times Now
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="" tvg-name="DD News" channel-number="112" group-title="📰 Indian News",DD News
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-1-hd-in.png?raw=true" tvg-name="Sony Sports Ten 1" channel-number="121" group-title="⚽ Sports",Sony Sports Ten 1 HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009276|Referer=https://techandeat.online/sliv/play.php?=1000009247
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-2-hd-in.png?raw=true" tvg-name="Sony Sports Ten 2" channel-number="122" group-title="⚽ Sports",Sony Sports Ten 2 HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009277|Referer=https://techandeat.online/sliv/play.php?=1000009247
+#EXTINF:-1 tvg-id="SonySportsTen3.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-3-hd-in.png?raw=true" tvg-name="Sony Sports Ten 3" channel-number="123" group-title="⚽ Sports",Sony Sports Ten 3 HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009278|Referer=https://techandeat.online/sliv/play.php?=1000009247
+#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-ten-5-hd-in.png?raw=true" tvg-name="Sony Sports Ten 5" channel-number="124" group-title="⚽ Sports",Sony Sports Ten 5 HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techandeat.online/sliv/play.php?=1000009247
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" tvg-name="Star Sports 1" channel-number="125" group-title="⚽ Sports",Star Sports 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373206.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-2-in.png?raw=true" tvg-name="Star Sports 2" channel-number="126" group-title="⚽ Sports",Star Sports 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373204.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-logo="" tvg-name="Star Sports Select 1" channel-number="127" group-title="⚽ Sports",Star Sports Select 1
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-logo="" tvg-name="Star Sports Select 2" channel-number="128" group-title="⚽ Sports",Star Sports Select 2
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="" tvg-name="Eurosport" channel-number="129" group-title="⚽ Sports",Eurosport
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="" tvg-name="DD Sports" channel-number="130" group-title="⚽ Sports",DD Sports
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-3-in.png?raw=true" group-title="⚽ Sports",Star Sports 3 HD
+http://103.151.60.162:2122/play/a029/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="" tvg-name="Zee Cinema" channel-number="150" group-title="🎬 Hindi Movies",Zee Cinema
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="" tvg-name="Sony Max" channel-number="151" group-title="🎬 Hindi Movies",Sony Max
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="" tvg-name="Sony Max 2" channel-number="152" group-title="🎬 Hindi Movies",Sony Max 2
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="StarGold.in" tvg-logo="" tvg-name="Star Gold" channel-number="153" group-title="🎬 Hindi Movies",Star Gold
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="StarGold2.in" tvg-logo="" tvg-name="Star Gold 2" channel-number="154" group-title="🎬 Hindi Movies",Star Gold 2
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-logo="" tvg-name="&pictures" channel-number="155" group-title="🎬 Hindi Movies",&pictures
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="" tvg-name="Colors Cineplex" channel-number="156" group-title="🎬 Hindi Movies",Colors Cineplex
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="" tvg-name="B4U Movies" channel-number="157" group-title="🎬 Hindi Movies",B4U Movies
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-logo="" tvg-name="Movies Now" channel-number="158" group-title="🎬 English Movies",Movies Now
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-logo="" tvg-name="Zee Bangla Cinema" channel-number="159" group-title="🎬 Bangla Movies",Zee Bangla Cinema
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="" tvg-name="Cartoon Network" channel-number="200" group-title="👶 Kids",Cartoon Network
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Nick.in" tvg-logo="" tvg-name="Nick" channel-number="201" group-title="👶 Kids",Nick
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Sonic.in" tvg-logo="" tvg-name="Sonic" channel-number="202" group-title="👶 Kids",Sonic
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Disney.in" tvg-logo="" tvg-name="Disney Channel" channel-number="203" group-title="👶 Kids",Disney Channel
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Hungama.in" tvg-logo="" tvg-name="Hungama" channel-number="204" group-title="👶 Kids",Hungama
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="" tvg-name="Discovery Kids" channel-number="205" group-title="👶 Kids",Discovery Kids
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Pogo.in" tvg-logo="" tvg-name="Pogo" channel-number="206" group-title="👶 Kids",Pogo
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="BabyTV.int" tvg-logo="" tvg-name="BabyTV" channel-number="207" group-title="👶 Kids",BabyTV
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="" tvg-name="Sony YAY!" channel-number="208" group-title="👶 Kids",Sony YAY!
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="MTVIndia.in" tvg-logo="" tvg-name="MTV India" channel-number="225" group-title="🎵 Music",MTV India
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="VH1.in" tvg-logo="" tvg-name="VH1" channel-number="226" group-title="🎵 Music",VH1
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="" tvg-name="9XM" channel-number="227" group-title="🎵 Music",9XM
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Zoom.in" tvg-logo="" tvg-name="Zoom" channel-number="228" group-title="🎵 Music",Zoom
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="E24.in" tvg-logo="" tvg-name="E24" channel-number="229" group-title="🎵 Music",E24
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-logo="" tvg-name="B4U Music" channel-number="230" group-title="🎵 Music",B4U Music
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-logo="" tvg-name="Zee Music" channel-number="231" group-title="🎵 Music",Zee Music
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="MTVBeats.in" tvg-logo="" tvg-name="MTV Beats" channel-number="232" group-title="🎵 Music",MTV Beats
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Discovery.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/discovery-channel-hd-us.png?raw=true" tvg-name="Discovery Channel" channel-number="250" group-title="🔬 Documentary",Discovery Channel
+https://prox.assadikb.workers.dev/22/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; Infinix X6831)
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true" tvg-name="Discovery Science" channel-number="251" group-title="🔬 Documentary",Discovery Science
+https://tv.nurmd2006-official.workers.dev/live/discovery_science_abr/index.m3u8|Referer=https://torongoplus.vercel.app/
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/hd/animal-planet-hd-de.png?raw=true" tvg-name="Animal Planet" channel-number="252" group-title="🔬 Documentary",Animal Planet
+https://prox.assadikb.workers.dev/26/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; Infinix X6831)
+#EXTINF:-1 tvg-id="NatGeo.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/national-geographic-hd-es.png?raw=true" tvg-name="National Geographic" channel-number="253" group-title="🔬 Documentary",National Geographic
+https://prox.assadikb.workers.dev/24/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; Infinix X6831)
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/nat-geo-wild-pl.png?raw=true" tvg-name="Nat Geo Wild" channel-number="254" group-title="🔬 Documentary",Nat Geo Wild
+https://prox.assadikb.workers.dev/23/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; Infinix X6831)
+#EXTINF:-1 tvg-id="History.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/history-tv18-hd-in.png?raw=true" tvg-name="History" channel-number="255" group-title="🔬 Documentary",History HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/156018.m3u8
+#EXTINF:-1 tvg-id="TLC.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/hd/tlc-hd-de.png?raw=true" tvg-name="TLC" channel-number="256" group-title="🔬 Documentary",TLC HD
+https://prox.assadikb.workers.dev/9/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; Infinix X6831)
+#EXTINF:-1 tvg-id="BBC_Earth.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png/revision/latest?cb=20241102205151" tvg-name="BBC Earth" channel-number="257" group-title="🔬 Documentary",BBC Earth HD
+http://66.102.126.10:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/travelxp-hd-in.png?raw=true" tvg-name="Travel XP" channel-number="258" group-title="🔬 Documentary",Travel XP HD
+https://prox.assadikb.workers.dev/62/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 15; Infinix X6831)
+#EXTINF:-1 tvg-id="LoveNature.int" tvg-logo="" tvg-name="Love Nature" channel-number="259" group-title="🔬 Documentary",Love Nature
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="PeaceTV.int" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Peace_TV_official_logo.png/120px-Peace_TV_official_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" tvg-name="Peace TV" channel-number="280" group-title="🕌 Religious",Peace TV
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTVBangla.int" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png?v=638436903936385279" tvg-name="Peace TV Bangla" channel-number="281" group-title="🕌 Religious",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="QuranTV.int" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sharjah_Quran_TV_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241213222234" tvg-name="Quran TV" channel-number="283" group-title="🕌 Religious",Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SaudiQuran.sa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Saudi_Quran_TV_2020.png/revision/latest/scale-to-width-down/1000?cb=20241025151010" tvg-name="Saudi Quran" channel-number="284" group-title="🕌 Religious",Saudi Quran
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SaudiSunnah.sa" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d8b44a9-c029-43b0-9982-bf2769d2232a/djfaodp-a71d41d4-d9d0-4f5b-942d-a24ed1cabfc6.png/v1/fill/w_904,h_884/saudi_sunnah_logo_2020_now__by_gaafar278_djfaodp-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyMCIsInBhdGgiOiIvZi83ZDhiNDRhOS1jMDI5LTQzYjAtOTk4Mi1iZjI3NjlkMjIzMmEvZGpmYW9kcC1hNzFkNDFkNC1kOWQwLTRmNWItOTQyZC1hMjRlZDFjYWJmYzYucG5nIiwid2lkdGgiOiI8PTEyNDcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2tnX6BM1KbuAxcEWDoGY-9mT_e0RuC8fpFQv0AACOts" tvg-name="Saudi Sunnah" channel-number="285" group-title="🕌 Religious",Saudi Sunnah
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="PTVHome.pk" tvg-logo="" tvg-name="PTV Home" channel-number="300" group-title="🇵🇰 Pakistan",PTV Home
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="GeoEntertainment.pk" tvg-logo="" tvg-name="Geo Entertainment" channel-number="301" group-title="🇵🇰 Pakistan",Geo Entertainment
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-logo="" tvg-name="Geo News" channel-number="302" group-title="🇵🇰 Pakistan",Geo News
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="" tvg-name="ARY Digital" channel-number="303" group-title="🇵🇰 Pakistan",ARY Digital
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-logo="" tvg-name="ARY News" channel-number="304" group-title="🇵🇰 Pakistan",ARY News
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-logo="" tvg-name="Hum TV" channel-number="305" group-title="🇵🇰 Pakistan",Hum TV
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="HumNews.pk" tvg-logo="" tvg-name="Hum News" channel-number="306" group-title="🇵🇰 Pakistan",Hum News
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="HumSitaray.pk" tvg-logo="" tvg-name="Hum Sitaray" channel-number="307" group-title="🇵🇰 Pakistan",Hum Sitaray
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="" tvg-name="PTV Sports" channel-number="308" group-title="🇵🇰 Pakistan",PTV Sports
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="" tvg-name="KBS World" channel-number="325" group-title="🌏 Asian",KBS World
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="" tvg-name="Arirang TV" channel-number="326" group-title="🌏 Asian",Arirang TV
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="" tvg-name="NHK World Japan" channel-number="327" group-title="🌏 Asian",NHK World Japan
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="" tvg-name="Channel NewsAsia" channel-number="328" group-title="🌏 Asian",Channel NewsAsia
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="" tvg-name="TV5Monde" channel-number="329" group-title="🌏 International",TV5Monde
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="" tvg-name="CGTN" channel-number="330" group-title="🌏 International",CGTN
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="" tvg-name="Al Jazeera English" channel-number="331" group-title="🌏 International",Al Jazeera English
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="" tvg-name="DW English" channel-number="332" group-title="🌏 International",DW English
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="France24.int" tvg-logo="" tvg-name="France 24" channel-number="333" group-title="🌏 International",France 24
+YOUR_STREAM_URL_HERE
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="" tvg-name="TRT World" channel-number="334" group-title="🌏 International",TRT World
+YOUR_STREAM_URL_HERE
